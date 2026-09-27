@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineCluster",
+  "description": "Extract assignment deadlines from messy briefs, handle ambiguous dates, and highlight overlapping submission clusters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
